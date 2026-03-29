@@ -68,8 +68,8 @@ Me chamo Davi Feitosa Bastos, tenho 20 anos e sou de Mato Grosso Rondonopolis . 
 ### 📊 Estatísticas
 </br>
 <a href="https://github.com/DaviFeitosaBastos">
-<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DaviFeitosaBastos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="190em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaviFeitosaBastos&layout=compact&langs_count=7&theme=dark">
+<img height="190em" src="https://streak-stats.demolab.com?user=DaviFeitosaBastos&theme=dark"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFeitosaBastos&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
 </div>
 </br>
 
