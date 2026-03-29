@@ -79,7 +79,7 @@ Me chamo Davi Feitosa Bastos, tenho 20 anos e sou de Mato Grosso Rondonopolis . 
 
 ### 👁️‍🗨️ Contagem de Visitantes
 <div>
-<img src="https://profile-counter.glitch.me/DaviFeitosaBastos/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=DaviFeitosaBastos&color=blue&style=flat"/>
 </div>
 
 </br>
