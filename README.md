@@ -1,13 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faf7f7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&pause=1000&color=faf7f7&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE!;MY+NAME+IS+DAVI+FEITOSA;I'M+20+YEARS+OLD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arvo&size=30&pause=1000&color=faf7f7&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE!;MY+NAME+IS+DAVI+FEITOSA;I'M+21+YEARS+OLD)](https://git.io/typing-svg)
 <br>
 
 <div align=center>
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Davi Feitosa Bastos, tenho 20 anos e sou de Mato Grosso Rondonopolis . Concluí o ensino médio na Escola Estadual Domingos Aparecido dos Santos e atualmente estou estudando programação sozinho, porem pretendo entrar na faculdade ate fim do ano 2025. Sou apaixonado por tecnologia, estudos e novos conhecimentos. Trabalho como desenvolvedor back-end e, nas horas vagas, gosto de explorar projetos fullstack mais básicos com Django e Flask.
+Me chamo Davi Feitosa Bastos, tenho 21 anos e sou de Rondonópolis, Mato Grosso.
+Atualmente curso o 1º semestre de Engenharia de Software na Estácio e estudo programação de forma autodidata.
+Tenho como objetivo me tornar desenvolvedor e pentester, unindo o desenvolvimento de software com a segurança da informação.
+Apaixonado por tecnologia e sempre em busca de novos conhecimentos.
 </div>
 
 <div align=center>
