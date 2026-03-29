@@ -5,7 +5,7 @@
 
 <div align=center>
 
-**`Desenvolvedor Back-end`**
+**`Estudante de Engenharia de Software`**
 
 Me chamo Davi Feitosa Bastos, tenho 21 anos e sou de Rondonópolis, Mato Grosso.
 Atualmente curso o 1º semestre de Engenharia de Software na Estácio e estudo programação de forma autodidata.
