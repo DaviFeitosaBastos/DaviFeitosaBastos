@@ -41,7 +41,6 @@ Apaixonado por tecnologia e sempre em busca de novos conhecimentos.
 - [ ] Primeiro projeto em Python
 - [ ] Começar a estudar cibersegurança
 - [ ] Primeiro desafio CTF
-- [ ] Entrar na faculdade — Engenharia de Software ✅
 
 </div>
 
