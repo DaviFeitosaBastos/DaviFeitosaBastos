@@ -35,7 +35,7 @@ Passionate about technology and always looking for new knowledge.
 ### 🗺️ Roadmap
 
 - [x] First project in C — terminal calculator
-- [x] First project in Python
+- [ ] First project in Python
 - [ ] Start studying cybersecurity
 - [ ] First CTF challenge
 </div>
