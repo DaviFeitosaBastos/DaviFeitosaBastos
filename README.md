@@ -24,7 +24,7 @@ Passionate about technology and always looking for new knowledge.
 ### 🤖 Languages & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,c,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,c,linux,bash" />
   </a>
 </p>
 
