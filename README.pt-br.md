@@ -35,19 +35,6 @@ Apaixonado por tecnologia e sempre em busca de novos conhecimentos.
 
 <div align=center>
 
-### 🗺️ Roadmap
-
-- [x] Primeiro projeto em C — calculadora no terminal
-- [ ] Primeiro projeto em Python
-- [ ] Começar a estudar cibersegurança
-- [ ] Primeiro desafio CTF
-
-</div>
-
----
-
-<div align=center>
-
 ### 📊 Estatísticas
 
 <a href="https://github.com/DaviFeitosaBastos">
