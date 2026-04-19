@@ -32,18 +32,6 @@ Passionate about technology and always looking for new knowledge.
 
 <div align=center>
 
-### 🗺️ Roadmap
-
-- [x] First project in C — terminal calculator
-- [ ] First project in Python
-- [ ] Start studying cybersecurity
-- [ ] First CTF challenge
-</div>
-
----
-
-<div align=center>
-
 ### 📊 Statistics
 
 <a href="https://github.com/DaviFeitosaBastos">
