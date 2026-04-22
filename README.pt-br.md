@@ -25,7 +25,7 @@ Apaixonado por tecnologia e sempre em busca de novos conhecimentos.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,c,linux,ubunto,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,c,linux,ubuntu,bash" />
   </a>
 </p>
 
